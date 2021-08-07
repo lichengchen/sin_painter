@@ -7,7 +7,7 @@ Authored in 2018/10/3
 
 正弦绘图工具，可用于演示信号的合成.
 
-# 可调节绘图总点数、精度（绘图密度）
+##### 可调节绘图总点数、精度（绘图密度）
 ![img](https://github.com/lichengchen/sinPainter/blob/main/4-1.gif) 
 ### 可调节振幅、频率、相位
 ### 双函数模式
