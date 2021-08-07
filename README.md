@@ -1,5 +1,5 @@
-# sinPainter
-A small Qt project to help painting sin function graph, with tools such as +, *, cursor.
+# sin_painter
+A small Qt project to help painting sine function graph, with tools such as +, *, cursor.
 
 What a elegant image of the sine function!
 
