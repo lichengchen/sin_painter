@@ -1,5 +1,6 @@
 # sinPainter  正弦绘图工具
 a small Qt project to help painting sin function graph, with tools such as +, *, cursor
+
 authored in 2018/10/3
 
 ### 可调节绘图总点数、精度（绘图密度）
