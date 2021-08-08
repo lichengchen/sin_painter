@@ -1,7 +1,6 @@
 # sin_painter
 A small Qt project to help painting sine function graph, with tools such as +, *, cursor.
 
-What a elegant image of the sine function!
 
 Authored in 2018/10/3
 
@@ -9,7 +8,9 @@ Authored in 2018/10/3
 
 ![img](https://github.com/lichengchen/sin_painter/blob/main/p4.jpg) 
 
-正弦绘图工具，可用于演示信号的合成.
+正弦绘图工具，可演示信号的采样、合成
+
+***
 
 #### 可调节绘图总点数、精度（采样率）
 若采样频率继续减少到一个周期内采不到两个点时，我们将无法从采样点恢复回原始信号。
