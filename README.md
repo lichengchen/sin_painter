@@ -23,7 +23,9 @@ Authored in 2018/10/3
 <iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598638&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ***
+
 运行环境：win7或更高
+
 可执行程序下载链接 [SinPainter.exe](https://github.com/lichengchen/sin_painter/releases/download/1.0/SinPainter.exe)
 
 ***
