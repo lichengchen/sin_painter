@@ -5,6 +5,8 @@ What a elegant image of the sine function!
 
 Authored in 2018/10/3
 
+[!img](https://github.com/lichengchen/sin_painter/blob/main/p4-1.png)
+
 正弦绘图工具，可用于演示信号的合成.
 
 #### 可调节绘图总点数、精度（绘图密度）
@@ -15,6 +17,7 @@ Authored in 2018/10/3
 ![img](https://github.com/lichengchen/sinPainter/blob/main/4-1.gif) 
 #### 可调节振幅、频率、相位
 调高信号频率（也可以看作相对调低了采样频率），我们看到了漂亮的花纹。信号处理中的眼图现象。
+[!img](https://github.com/lichengchen/sin_painter/blob/main/p4-2.jpg)
 
 #### 双函数模式
 可绘制两个函数，每个函数可独立设置a, w, b参数
