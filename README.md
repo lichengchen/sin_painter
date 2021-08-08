@@ -1,5 +1,6 @@
 # sin_painter
 正弦绘图工具，可演示信号的采样、合成
+
 Authored in 2018/10/3
 
 ***
