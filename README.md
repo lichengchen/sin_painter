@@ -6,9 +6,10 @@ Authored in 2018/10/3
 
 ***
 
+正弦绘图工具，可演示信号的采样、合成
+
 ![img](https://github.com/lichengchen/sin_painter/blob/main/p4.jpg) 
 
-正弦绘图工具，可演示信号的采样、合成
 
 ***
 
