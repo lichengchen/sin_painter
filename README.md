@@ -22,8 +22,6 @@ Authored in 2018/10/3
 
 ![img](https://github.com/lichengchen/sin_painter/blob/main/p4-1.png)
 
-#### 双函数模式
-可绘制两个函数，每个函数可独立设置a, w, b参数
 #### 双函数模式下可模拟相加相乘
 ![img](https://github.com/lichengchen/sinPainter/blob/main/4-2.gif) 
 #### 游标工具精确定位绘图点数值
