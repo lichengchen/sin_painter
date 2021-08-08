@@ -7,7 +7,7 @@ Authored in 2018/10/3
 
 ***
 
-![img](https://github.com/lichengchen/sin_painter/blob/main/p4-1.png?raw=true) 
+![img](https://github.com/lichengchen/sin_painter/blob/main/p4.jpg?raw=true) 
 
 正弦绘图工具，可用于演示信号的合成.
 
@@ -20,7 +20,7 @@ Authored in 2018/10/3
 #### 可调节振幅、频率、相位
 调高信号频率（也可以看作相对调低了采样频率），我们看到了漂亮的花纹。信号处理中的眼图现象。
 
-![img](https://github.com/lichengchen/sin_painter/blob/main/p4-1.png)
+![img](https://github.com/lichengchen/sin_painter/blob/main/p4-1.png?raw=true)
 
 #### 双函数模式下可模拟相加相乘
 <iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598627&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
